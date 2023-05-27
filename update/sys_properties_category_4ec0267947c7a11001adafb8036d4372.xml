@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-27 13:31:50</sys_created_on>
+        <sys_id>4ec0267947c7a11001adafb8036d4372</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_4ec0267947c7a11001adafb8036d4372</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-27 13:31:50</sys_updated_on>
+        <title><![CDATA[<p><img src="/sys_attachment.do?sys_id&#61;ebe1a63947c7a11001adafb8036d43ba" alt="" width="240" height="240" /></p>
+<ol style="list-style-type: lower-alpha; list-style-position: inside;"><li style="font-size: 18pt;"><span style="font-size: 18pt;">In the <em>Filter...</em> field enter the text <strong>System</strong> OR select <strong>Properties</strong> from the categories in the left hand pane.</span></li></ol>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=4ec0267947c7a11001adafb8036d4372"/>
+</record_update>
